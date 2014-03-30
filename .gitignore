@@ -3,3 +3,4 @@ venv
 staticfiles
 .idea
 *.sqlite3
+.vagrant
